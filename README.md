@@ -2,7 +2,7 @@
 
 ### AI Operator & Full-Stack Automation Engineer
 
-📍 Paraguay 🇵🇾 · 🌎 Open to remote roles in the US, Europe and Latin America (USD contracts)
+📍 Paraguay 🇵🇾 · 🤝 Open to collaborations on AI automation projects
 
 I turn AI agents into real business results. I'm the **Implementation & Support Supervisor at Documenta S.A.**, an IT company that builds electronic invoicing and digital payroll receipt solutions. My day-to-day is real users, real support tickets and real production systems, and I use AI agents to make that work faster, safer and more reliable.
 
@@ -48,4 +48,4 @@ Hands-on experience in implementation and support taught me what users really ne
 
 ---
 
-📫 Let's talk: open to remote opportunities in AI operations, automation and support engineering.
+📫 Let's talk: always happy to connect about AI agents, automation and support engineering.
