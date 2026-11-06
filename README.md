@@ -1,51 +1,40 @@
 # Hi, I'm Alejandro 👋
 
-### AI Operator & Full-Stack Automation Engineer
+### Technical Support & Implementation Engineer | AI Automation (MCP, TypeScript)
 
-📍 Paraguay 🇵🇾 · 🌎 Open to remote roles in AI automation, agents and support engineering
+📍 Lambaré, Paraguay (UTC-3) · 🌎 Open to remote work · 📫 alefran587@gmail.com · [LinkedIn](https://linkedin.com/in/alejandro-martinez-py)
 
-I turn AI agents into real business results. I'm the **Implementation & Support Supervisor at Documenta S.A.**, an IT company that builds electronic invoicing and digital payroll receipt solutions. My day-to-day is real users, real support tickets and real production systems, and I use AI agents to make that work faster, safer and more reliable.
+IT professional with nearly 5 years in technical support, payments infrastructure and client implementations, now focused on AI automation. At **Documenta**, I lead a team of five support technicians for our e-invoicing and digital payroll products, and I introduced AI agents into our ticket workflow. On my own time, I build MCP servers and data pipelines in TypeScript, backed by schema validation and automated tests.
 
 ---
 
-## 🤖 How I work with AI
+## 💼 Experience
 
-I don't just "use ChatGPT". I run a **multi-agent workflow** every day:
+| Role | Company | Period |
+|------|---------|--------|
+| **Implementation & Digital Solutions Supervisor** | Dígito TI (Documenta S.A.) | Nov 2025 – Present |
+| **IT Support & Implementation Supervisor** | McDonald's Paraguay (Servicios Rápidos del Paraguay) | Dec 2024 – Nov 2025 |
+| **Systems Analyst** | Bancard (payments network) | Jul 2022 – Dec 2024 |
+| **IT Technician** | Servicios Díaz e Hijos | Feb 2022 – Jul 2022 |
 
-- **Multi-agent orchestration:** I coordinate Claude and Gemini agents with **T3 Code**, delegating tasks to the right model based on complexity, cost and context limits.
-- **Custom agent skills:** I design my own reusable skills, such as a support-ticket agent for Odoo, a corporate email agent, browser automation with Playwright and a sub-agent orchestrator with memory and quota safeguards.
-- **MCP integrations:** I build Model Context Protocol servers that connect AI assistants to databases, metrics and safe remediation actions.
-- **Guardrails by default:** strict schema validation (Zod), automated tests and human approval before any AI action touches real data.
+**Highlight:** introduced AI agents to triage and route support tickets at Documenta, cutting daily ticket volume from about 30 to 5.
 
-## 🎯 What I can do for your team
-
-| | |
-|---|---|
-| 🎫 **AI-powered support** | Triage, diagnose and resolve support tickets faster with AI agents connected to your tools. |
-| ⚙️ **Process automation** | Connect systems, extract data from documents and remove repetitive manual work. |
-| 🧩 **AI integrations** | Plug LLMs into your existing stack (ERP, CRM, email, databases) through MCP servers and APIs. |
-| 🛠️ **Internal tools** | Ship small web apps and dashboards that non-technical users can use from day one. |
-
-## 🚀 Featured projects
+## 🚀 Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**MCP Ops Bridge**](https://github.com/Alemarpapa/mcp-ops-bridge) | MCP server that lets AI assistants (Claude, Cursor) read system metrics and run guarded, safe fixes | TypeScript · Node · MCP · SQLite |
-| [**DocuFlow Extractor**](https://github.com/Alemarpapa/docuflow-extractor) | Extracts structured data from invoices and runs 3-way accounting reconciliation | TypeScript · Zod · SQLite · Vitest |
-| [**RadarAI Lead Pipeline**](https://github.com/Alemarpapa/radar-lead-pipeline) | Finds and scores sales leads (0–100), then sends them to CRMs through signed webhooks | TypeScript · HMAC-SHA256 · Vitest |
-| [**Alemar – TCG**](https://github.com/Alemarpapa/Alemar-tcg) | Finance app for trading card sellers: sales, unpaid debts, stock and monthly profit & loss | React 19 · TypeScript · Vite · Vitest |
+| [**MCP Ops Bridge**](https://github.com/Alemarpapa/mcp-ops-bridge) | MCP server that lets AI agents check service metrics and run remediation actions. Production changes need explicit confirmation, an operator ID and a justification; every action is audit-logged. | TypeScript · Node.js · Zod · SQLite · Vitest |
+| [**DocuFlow Extractor**](https://github.com/Alemarpapa/docuflow-extractor) | Extracts invoice data into validated records, cross-checks line items, subtotal, tax and total, and flags mismatches for human review. | TypeScript · Zod · SQLite · Vitest |
+| [**Radar Lead Pipeline**](https://github.com/Alemarpapa/radar-lead-pipeline) | Scores incoming leads with rule-based enrichment and dispatches high-priority ones through HMAC-signed webhooks, with a delivery log. | TypeScript · Node.js · Zod · SQLite |
+| [**Alemar TCG**](https://github.com/Alemarpapa/Alemar-tcg) | Sales, receivables and profit tracker for trading card sellers. Parses sales messages into validated drafts and sends one-click WhatsApp payment reminders; 31 automated tests. | React 19 · TypeScript · Vite · Zod · Vitest |
 
-## 🛠️ Tech stack
+## 🛠️ Skills
 
-**Languages & frameworks:** TypeScript · Node.js · React · Vite  
-**AI & agents:** Claude · Gemini · T3 Code · MCP · Agent skills · Prompt engineering  
-**Quality & automation:** Zod · Vitest · Playwright · Git  
-**Business systems:** Odoo · Outlook · SQLite · Linux
+**AI & automation:** MCP servers · multi-agent workflows (Claude, Gemini) · custom agent skills · Playwright  
+**Tools & languages:** TypeScript · Node.js · React · Zod · Vitest · SQLite · MySQL · SQL Server · Linux  
+**Support & operations:** Odoo helpdesk · SAP · production incident handling · team leadership · client onboarding
 
-## 💡 What makes me different
+## 🎓 Education & languages
 
-Hands-on experience in implementation and support taught me what users really need and how production systems actually fail. I combine that **support mindset** with **AI engineering**: I build tools that solve real problems, are tested and can be trusted.
-
----
-
-📫 Let's talk: open to remote opportunities and collaborations with international teams.
+B.S. in Computer Engineering (final year), Universidad Autónoma de Asunción  
+Spanish (native) · English (intermediate, B1)
